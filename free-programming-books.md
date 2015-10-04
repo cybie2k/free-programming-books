@@ -981,5 +981,3 @@ See also [LaTeX](#latex)
 
 ###Windows Phone
 * [Programming Windows Phone 7](http://blogs.msdn.com/b/microsoft_press/archive/2010/10/28/free-ebook-programming-windows-phone-7-by-charles-petzold.aspx)
-
-* This was edited by Greg Morgan
